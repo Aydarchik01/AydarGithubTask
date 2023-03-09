@@ -4,6 +4,6 @@ public class Main {
         System.out.println("привет");
         System.out.println("Айдар");
         System.out.println("dfghjk");
-
+        System.out.println("Почему игнориш?");
     }
 }
