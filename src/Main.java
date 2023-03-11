@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Ya siju praktikuyu!)");
         System.out.println(" Ya toje praktikuyu");
         System.out.println("Privet!!!");
+        System.out.println("AYDAR");
     }
 }
