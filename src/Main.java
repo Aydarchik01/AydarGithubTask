@@ -11,5 +11,7 @@ public class Main {
         System.out.println("Privet!!!");
         System.out.println("AYDAR");
         System.out.println("Ronaldo");
+        System.out.println("Men jonottum ");
+       
     }
 }
