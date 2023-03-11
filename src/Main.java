@@ -10,5 +10,6 @@ public class Main {
         System.out.println(" Ya toje praktikuyu");
         System.out.println("Privet!!!");
         System.out.println("AYDAR");
+        System.out.println("Men jonottum ");
     }
 }
