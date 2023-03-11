@@ -12,5 +12,8 @@ public class Main {
         System.out.println("AYDAR");
         System.out.println("Ronaldu");
         System.out.println("Men jonottum");
+        int a1 = 10;
+        int a2 = 15;
+        System.out.println(a1+a2);
     }
 }
