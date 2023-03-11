@@ -7,11 +7,10 @@ public class Main {
         System.out.println("Почему игнориш?");
         System.out.println("privet,vsem. chem zanyaty?");
         System.out.println("Ya siju praktikuyu!)");
-        System.out.println(" Ya toje praktikuyu");
+        System.out.println(" Yo toje praktikuyu");
         System.out.println("Privet!!!");
         System.out.println("AYDAR");
         System.out.println("Ronaldo");
         System.out.println("Men jonottum ");
-       
     }
 }
