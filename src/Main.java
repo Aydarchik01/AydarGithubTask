@@ -1,19 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Привет Сафия");
-        System.out.println("привет");
-        System.out.println("Айдар");
-        System.out.println("dfghjk");
-        System.out.println("Почему игнориш?");
-        System.out.println("privet,vsem. chem zanyaty?");
-        System.out.println("Ya siju praktikuyu!)");
-        System.out.println(" Yo toje praktikuyu");
-        System.out.println("Privet!!!");
-        System.out.println("AYDAR");
-        System.out.println("Ronaldu");
-        System.out.println("Men jonottum");
-        int a1 = 10;
-        int a2 = 15;
-        System.out.println(a1+a2);
+
     }
 }
