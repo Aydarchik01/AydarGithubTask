@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Почему игнориш?");
         System.out.println("privet,vsem. chem zanyaty?");
         System.out.println("Ya siju praktikuyu!)");
+        System.out.println(" Yo toje praktikuyu");
     }
 }
