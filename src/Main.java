@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Айдар");
         System.out.println("dfghjk");
         System.out.println("Почему игнориш?");
+        System.out.println("privet,vsem. chem zanyaty?");
     }
 }
